@@ -1,52 +1,9 @@
 
-#xywy
-
-#Health Search
-#专家说预上线
-10.20.3.8 zixun_club.xywy.com
-10.30.2.8 3g.zhuanjia.xywy.com
-10.20.3.8 shouce_club.xywy.com
-
-#search
-
-#10.20.3.8 m.so.xywy.com 
-
-#circle
-
-10.20.3.8 api.wws.xywy.com
-
-#yimai
-
-10.20.3.8 yimai.api.xywy.com
-
-172.16.207.33 test.wap.app.xywy.com
-172.16.207.33 test.tv.xywy.com
-172.16.207.33   test.api.tv.xywy.com
-172.16.207.33   test.yimai.api.xywy.com
-172.16.207.33   test.zixun_club.xywy.com
-172.16.207.33   test.shouce_club.xywy.com
-172.16.207.33   test.api.zhuanjia.xywy.com
-
-
-
-#前端地址：
-43.242.50.193 static.img.xywy.com
-43.242.50.193 static.js.xywy.com
-43.242.50.193 static.css.xywy.com
-
-
-10.20.9.10 test.yimei.zx.xywy.com
-10.20.9.10 test.mp.club.xywy.com
-10.20.9.10 test.3g.xtjk.wenkang.cn10.20.9.10 test.3g.xtjk.wenkang.cn
-10.20.9.10 test.3g.club.xywy.com
-10.20.9.10 test.3g.hdjk.wenkang.cn
-
-203.130.45.171    fzadmin.z.xywy.com
-
 
 #Wiki
 
-198.35.26.96 zh.wikipedia.org198.35.26.96 zh.m.wikipedia.org
+198.35.26.96 zh.wikipedia.org
+198.35.26.96 zh.m.wikipedia.org
 
 #Google hosts 2015  BY googlehost.lofter.com	
 
