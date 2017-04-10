@@ -1,3 +1,10 @@
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+127.0.0.1	localhost
+255.255.255.255	broadcasthost
 
 
 #Wiki
@@ -2149,12 +2156,4 @@
 223.255.227.170	img0.gmodules.com 
 223.255.227.170	betaspike.appspot.com 
 223.255.227.170	m-dot-betaspike.appspot.com
-# Host Database
-#
-# localhost is used to configure the loopback interface
-# when the system is booting.  Do not change this entry.
-##
-127.0.0.1	localhost
-255.255.255.255	broadcasthost
-::1             localhost 
-127.0.0.1 windows10.microdone.cn
+
